@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class GameEngine {
@@ -23,6 +24,10 @@ public class GameEngine {
 
         objGameInfo.setObjPlayer(objPlayer);
         objGameInfo.setObjRuangan(objRuangan);
+    }
+    
+    public Nama() {
+    
     }
 
 
